@@ -1,3 +1,4 @@
+// app/lib/api.js
 
 const BASE_URL = 'https://lab15-web-1orq.onrender.com/api/productos';
 
